@@ -59,10 +59,10 @@
                     首页
                 </a>
                 <a
-                    href="/listen"
+                    href="/blog"
                     class="px-3 py-1.5 border-r border-slate-300 hover:bg-slate-50"
                 >
-                    Listen
+                    博客
                 </a>
                 <a
                     href="#"
@@ -101,9 +101,11 @@
             class="flex items-center justify-between border-t border-slate-300 py-1.5 text-[12px]"
         >
             <div class="flex items-center gap-2">
-                <span class="text-slate-600">条目</span>
+                <span class="text-slate-600">首页</span>
                 <span class="text-slate-400">›</span>
-                <span class="font-semibold">示例页面标题</span>
+                <span class="font-semibold">分类</span>
+                <span class="text-slate-400">›</span>
+                <span class="font-semibold">IT</span>
             </div>
 
             <form class="flex items-center gap-1 text-xs">
