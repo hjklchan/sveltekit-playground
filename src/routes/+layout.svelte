@@ -15,7 +15,7 @@
 <!-- Header -->
 <Header {logo} />
 <!-- 页面主体：记得加上顶部内边距，避免被 header 挡住 -->
-<main class="max-w mx-auto px-4 pt-4">
+<main class="max-w mx-auto px-4 pt-4 pb-16">
   {@render children()}
 </main>
 <!-- Footer -->
